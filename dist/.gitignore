@@ -1,9 +1,0 @@
-php_errorlog
-php_mail.log
-cgi-bin/
-settings.php
-.DS_Store
-.sass-cache/
-bower_components
-node_modules
-.tmp/
